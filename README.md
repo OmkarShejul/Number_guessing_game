@@ -85,5 +85,4 @@ Made with ❤️ by [Omkar Shejul](https://github.com/OmkarShejul)
 
 ---
 
-✅ Don’t forget to star ⭐ this repo if you like it!
-```
+✅ Don’t forget to star ⭐ this repo if you like it!!
